@@ -1,0 +1,26 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Conda environment files
+env/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore large data files
+*.csv
+*.json
+*.log
+*.h5
+*.hdf5
+*.sqlite
+*.db
+
+# Ignore Jupyter Notebook metadata
+.ipynb_metadata/
+
+# Ignore VSCode & Jupyter extensions
+.vscode/
+*.swp
