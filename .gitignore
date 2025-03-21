@@ -24,3 +24,6 @@ __pycache__/
 # Ignore VSCode & Jupyter extensions
 .vscode/
 *.swp
+
+
+.DS_Store
