@@ -12,6 +12,7 @@ __pycache__/
 # Ignore large data files
 *.csv
 *.json
+!split_ids.json
 *.log
 *.h5
 *.hdf5
